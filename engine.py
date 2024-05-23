@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 from io import BytesIO
-import cv2
 import librosa
 import soundfile as sf
 from PIL import Image
