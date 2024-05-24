@@ -1,5 +1,6 @@
 import streamlit as st
 import numpy as np
+import matplotlib.pyplot as plt
 from io import BytesIO
 import librosa
 import soundfile as sf
